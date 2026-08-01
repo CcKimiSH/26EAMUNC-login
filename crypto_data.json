@@ -1,0 +1,331 @@
+[
+  {
+    "name": "叶乐怡",
+    "qq_hash": "1ebb4e3d6b930a22f356ce3fc439c4dea0b3c6bb9257a7fce7a14dad1ed10bbc",
+    "venue": "IPC",
+    "school": "同济大学",
+    "seat": "学术团队成员"
+  },
+  {
+    "name": "马淇轩",
+    "qq_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "venue": "UNSC",
+    "school": "上海市洋泾中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "马淇轩",
+    "qq_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "venue": "IPC",
+    "school": "上海市洋泾中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "陈保麟",
+    "qq_hash": "57e657bce27a93e4afb603e8106d755489f8f5c545c81a542f9ccf136bdfa5a0",
+    "venue": "IPC",
+    "school": "华中科技大学",
+    "seat": "学术团队成员"
+  },
+  {
+    "name": "傅泊嘉",
+    "qq_hash": "f367175bc805c1c35ee2344da00a957aec51bf4fac7619080a7b96e943122360",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "DM"
+  },
+  {
+    "name": "傅泊嘉",
+    "qq_hash": "f367175bc805c1c35ee2344da00a957aec51bf4fac7619080a7b96e943122360",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "DM"
+  },
+  {
+    "name": "海粟",
+    "qq_hash": "9e178db5e61536308049e5ed197c90288dcf1853a3621f0712c0fcdc2e1c5849",
+    "venue": "IPC",
+    "school": "上海市第三女子中学",
+    "seat": "学术团队成员"
+  },
+  {
+    "name": "卢晨阳",
+    "qq_hash": "23ccc456855cc69476f7f4c3bc018c05cddb36df1d1457ee976e5b74b450e20c",
+    "venue": "NAC",
+    "school": "上海交通大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "卢晨阳",
+    "qq_hash": "23ccc456855cc69476f7f4c3bc018c05cddb36df1d1457ee976e5b74b450e20c",
+    "venue": "IPC",
+    "school": "上海交通大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "杜兮知",
+    "qq_hash": "7b69f5063c3b2c1f6f605ed299c8476b824b6f4bc6d30d1c03f680b5ebfd16b1",
+    "venue": "MPC",
+    "school": "太原师范学院附属中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "奚溟屿",
+    "qq_hash": "1b77ab18a145f7e307dce0e496decf57f384b0eabaa848c905e468aa30d94f8c",
+    "venue": "MPC",
+    "school": "香港科技大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "杜兮知",
+    "qq_hash": "7b69f5063c3b2c1f6f605ed299c8476b824b6f4bc6d30d1c03f680b5ebfd16b1",
+    "venue": "IPC",
+    "school": "太原师范学院附属中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "奚溟屿",
+    "qq_hash": "1b77ab18a145f7e307dce0e496decf57f384b0eabaa848c905e468aa30d94f8c",
+    "venue": "IPC",
+    "school": "香港科技大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "刘谚沄",
+    "qq_hash": "57b7ce425544c335648ebbf435d757c2adeec59526a62dba20210f9fad468bf9",
+    "venue": "SCO",
+    "school": "南京大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "刘谚沄",
+    "qq_hash": "57b7ce425544c335648ebbf435d757c2adeec59526a62dba20210f9fad468bf9",
+    "venue": "IPC",
+    "school": "南京大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "魏子烨",
+    "qq_hash": "7a91582ee1b48868a904e33e62af762543bd0fb9ec4d2adb5f4103dff51af012",
+    "venue": "USCC",
+    "school": "温州肯恩大学",
+    "seat": "DH"
+  },
+  {
+    "name": "乔沅芷",
+    "qq_hash": "90bfa343ae9b4acac48f074e826713dadcb43471ef6e6595c1b6f6a4a996c989",
+    "venue": "UNSC",
+    "school": "上海市建平中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "乔沅芷",
+    "qq_hash": "90bfa343ae9b4acac48f074e826713dadcb43471ef6e6595c1b6f6a4a996c989",
+    "venue": "IPC",
+    "school": "上海市建平中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "华益",
+    "qq_hash": "8f32fea43e945177f9763fa32c6ad89db316b5d95e138bdceef82fa18ef9b3e7",
+    "venue": "UNSC",
+    "school": "上海外国语大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "华益",
+    "qq_hash": "8f32fea43e945177f9763fa32c6ad89db316b5d95e138bdceef82fa18ef9b3e7",
+    "venue": "IPC",
+    "school": "上海外国语大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "聂弈楠",
+    "qq_hash": "eaceed4c00df85bfc7f4bfa27ec7387d404dd9b91451e036cd607249078976db",
+    "venue": "IPC",
+    "school": "上海交通大学",
+    "seat": "学术团队成员"
+  },
+  {
+    "name": "蔡梓宸",
+    "qq_hash": "c1f497c1140b5a59688693a83f4146ca7848ab4fcd3f40687daad86dfd7fc5b0",
+    "venue": "SCO",
+    "school": "上海科技大学",
+    "seat": "主席团负责人"
+  },
+  {
+    "name": "蔡梓宸",
+    "qq_hash": "c1f497c1140b5a59688693a83f4146ca7848ab4fcd3f40687daad86dfd7fc5b0",
+    "venue": "IPC",
+    "school": "上海科技大学",
+    "seat": "主席团负责人"
+  },
+  {
+    "name": "王绮雯",
+    "qq_hash": "9426da814d5b70ddde7d64162d802122f2027ba799c2b404676629d28dddf50b",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "学术团队成员"
+  },
+  {
+    "name": "王绮雯",
+    "qq_hash": "9426da814d5b70ddde7d64162d802122f2027ba799c2b404676629d28dddf50b",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "组委副主席"
+  },
+  {
+    "name": "金昱凡",
+    "qq_hash": "5bea9ae6f191cf6ecf52d76acf5769531f31d59b0932bcddb60bc7175461486a",
+    "venue": "MPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "金昱凡",
+    "qq_hash": "5bea9ae6f191cf6ecf52d76acf5769531f31d59b0932bcddb60bc7175461486a",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "组委主席"
+  },
+  {
+    "name": "汤澈",
+    "qq_hash": "b9557a9676404c8dae7e090b0942d307ae5640b41a4802854bed4503f0d18221",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "王玉珏",
+    "qq_hash": "554e60070a7d596efdee1145943b4a0db9f7f18e0d3aa64c585cbcefa251b404",
+    "venue": "NAC",
+    "school": "复旦大学附属中学青浦分校",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "汤澈",
+    "qq_hash": "b9557a9676404c8dae7e090b0942d307ae5640b41a4802854bed4503f0d18221",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "王玉珏",
+    "qq_hash": "554e60070a7d596efdee1145943b4a0db9f7f18e0d3aa64c585cbcefa251b404",
+    "venue": "IPC",
+    "school": "复旦大学附属中学青浦分校",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "张玲宁",
+    "qq_hash": "94f908348b2076de21515e1cff34376f86e24d665fa6d168851b630c83855d92",
+    "venue": "SCO",
+    "school": "上海理工大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "张玲宁",
+    "qq_hash": "94f908348b2076de21515e1cff34376f86e24d665fa6d168851b630c83855d92",
+    "venue": "IPC",
+    "school": "上海理工大学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "傅姜昱瑀",
+    "qq_hash": "70e86c692caa31c066359ed5bfa9fa1b5830704f0d79f66c5b9c3b8c3456a868",
+    "venue": "MPC",
+    "school": "同济大学",
+    "seat": "主席团负责人"
+  },
+  {
+    "name": "傅姜昱瑀",
+    "qq_hash": "70e86c692caa31c066359ed5bfa9fa1b5830704f0d79f66c5b9c3b8c3456a868",
+    "venue": "IPC",
+    "school": "同济大学",
+    "seat": "学术团队成员"
+  },
+  {
+    "name": "王瑞宸",
+    "qq_hash": "6130ac803c6224466574168f23f778b4301c1d01e4e59191b81c22989476f8ac",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团负责人"
+  },
+  {
+    "name": "王瑞宸",
+    "qq_hash": "6130ac803c6224466574168f23f778b4301c1d01e4e59191b81c22989476f8ac",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团负责人"
+  },
+  {
+    "name": "叶祎芃",
+    "qq_hash": "8ba1dc3dc3562b023c6befca4dc8840a21c8821abd6426f240705ce381ec73c6",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "叶祎芃",
+    "qq_hash": "8ba1dc3dc3562b023c6befca4dc8840a21c8821abd6426f240705ce381ec73c6",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "张晨予",
+    "qq_hash": "9e0f006fad954bb673ed3a0d7cef250fac766ca08f682f8f3238391b83e834b7",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "DH"
+  },
+  {
+    "name": "张晨予",
+    "qq_hash": "9e0f006fad954bb673ed3a0d7cef250fac766ca08f682f8f3238391b83e834b7",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "组委副主席"
+  },
+  {
+    "name": "张一",
+    "qq_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "venue": "MPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团成员"
+  },
+  {
+    "name": "张二",
+    "qq_hash": "38083c7ee9121e17401883566a148aa5c2e2d55dc53bc4a94a026517dbff3c6b",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "大不列颠及北爱尔兰联合王国"
+  },
+  {
+    "name": "张三",
+    "qq_hash": "ceaa28bba4caba687dc31b1bbe79eca3c70c33f871f1ce8f528cf9ab5cfd76dd",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": "中国"
+  },
+  {
+    "name": "张四",
+    "qq_hash": "db2e7f1bd5ab9968ae76199b7cc74795ca7404d5a08d78567715ce532f9d2669",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "美利坚合众国"
+  },
+  {
+    "name": "张五",
+    "qq_hash": "f8638b979b2f4f793ddb6dbd197e0ee25a7a6ea32b0ae22f5e3c5d119d839e75",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "NAC驻场推演"
+  },
+  {
+    "name": "张六",
+    "qq_hash": "499bc7df9d8873c1c38e6898177c343b2a34d2eb43178a9eb4efcb993366c8cd",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "New York"
+  }
+]
