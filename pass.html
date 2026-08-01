@@ -208,7 +208,13 @@
             font-family: "Noto Sans SC", "Roboto", sans-serif;
             text-transform: uppercase;
         }
-
+        /* ---- 会场标题双色定制 ---- */
+        .theme-part-efz {
+            color: var(--color-b); /* 使用颜色B (对应米色) */
+        }
+        .theme-part-mun {
+            color: var(--color-c); /* 使用颜色C (对应浅亮色) */
+        }
         /* ---- 横线 ---- */
         .line-thick {
             position: absolute;
@@ -233,16 +239,17 @@
             transition: background-color 0.4s ease;
         }
 
-        /* ---- 信息展示区 ---- */
+        /* ===== 信息展示区样式调整 ===== */
         .placeholders {
             position: absolute;
             left: 15mm;
             top: 34mm;
+            right: 5mm; 
             display: flex;
             flex-direction: column;
             gap: 3mm;
             z-index: 2;
-            max-width: calc(100% - 20mm );
+            max-width: calc(100% - 20mm - 8mm );
         }
         .placeholders span {
             font-size: 4mm;
@@ -253,20 +260,39 @@
             transition: color 0.4s ease;
             line-height: 1.3;
         }
-        /* 姓名行*/
+
+        /* 1. 席位行：单行必显示，字小适应 */
+        #info-seat {
+            white-space: nowrap !important;      /* 强制单行，禁止换行 */
+            display: inline-block;               /* 配合 scrollWidth 检测 */
+            max-width: 100%;                     /* 限制最大宽度为父容器 */
+            font-size: 2.5mm;                      /* 初始字号，JS会动态缩小 */
+            vertical-align: middle;
+
+        }
+
+        /* 2. 姓名行：保持大字体 */
         .placeholders .name-row {
             font-size: 10mm;
             font-weight: 800;
             letter-spacing: 0.4mm;
+        }
 
-        }
-        /* 会议信息行*/
-        .placeholders .info-conference {
-            font-size: 2mm;
-            font-weight: 400;
+        /* 3. 学校行：最多允许两行，超长省略 */
+        .placeholders .school-row {
+            font-size: 2.6mm;
+            font-weight: 500;
             letter-spacing: 0.1mm;
-            line-height: 1.0;
+            right: 18mm; 
+            display: -webkit-box;                /* 弹性盒模型 */
+            -webkit-box-orient: vertical;        /* 垂直排列 */
+            -webkit-line-clamp: 2;               /* 强制最多显示 2 行 */
+            overflow: hidden;                    /* 超出的部分隐藏 */
+            text-overflow: ellipsis;             /* 配合 `...` 省略号 */
+            word-break: break-word;              /* 长单词/中文打断换行 */
+            line-height: 1.4;                    /* 行高防止重叠 */
         }
+        
 
         /* ---- 底部 Logo ---- */
         .logo-wrapper {
@@ -352,6 +378,35 @@
             }
         }
 
+        /* ---- 新增：会议信息栏（左对齐，介于信息和Logo之间） ---- */
+        .conf-info {
+            position: absolute;
+            left: 15mm;          /* 与上方的标题、横线等元素保持绝对左对齐 */
+            bottom: 20%;      /* 位于底部 Logo 上方适当位置（此处可微调） */
+            z-index: 2;
+            text-align: left;    /* 强制左对齐 */
+            display: flex;
+            flex-direction: column;
+            gap: 0.8mm;          /* 两行文字之间的间距 */
+            font-family: "Noto Sans SC", "Roboto", sans-serif;
+            color: var(--color-a);  /* 继承主题色 */
+            opacity: 0.65;          /* 适当降低透明度，让会议信息不抢戏 */
+            transition: color 0.4s ease, opacity 0.4s ease;
+            pointer-events: none;   /* 防止打印/点击干扰 */
+        }
+        .conf-title {
+            font-size: 1.8mm;    /* 字号较小，精致一些 */
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            line-height: 1.2;
+        }
+        .conf-date {
+            font-size: 1.8mm;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            line-height: 1.2;
+        }
+
         /* ===== 极窄屏适配 ===== */
         @media screen and (max-width: 300px) {
             .card {
@@ -426,12 +481,13 @@
                 <span id="info-venuecn"></span>
                 <span id="info-seat"></span>
                 <span class="name-row" id="info-name"></span>
-                <span id="info-school"></span>
-                <span class="info-conference" id="info-conference00"></span>
-                <span class="info-conference" id="info-conference00"></span>
-                <span class="info-conference" id="info-conference1"></span>
-                <span class="info-conference" id="info-conference2"></span>
-                
+                <span class="school-row" id="info-school"></span>
+            </div>
+            
+            <!-- 会议信息栏 -->
+            <div class="conf-info">
+                <div class="conf-title" id="info-conference1">2026卓越学院模拟联合国大会</div>
+                <div class="conf-date" id="info-conference2">8.11 ~ 8.13</div>
             </div>
 
             <!-- 底部 Logo --> 
@@ -574,13 +630,41 @@
             'USCC': 'Continental Congress',
             'MPC': '主新闻中心',
             'UNSC': '联合国安全理事会',
-            'IPC': '推演与情报中心'
+            'IPC': '推演与情报中心',
+            'EFZMUN': '华师大二附中模联社'
         };
 
         // ===== 设置主题配色 =====
         function setTheme(themeName) {
             const container = document.getElementById('app-container');
+            if (themeName.toLowerCase() === 'efzmun') {
+                themeName = 'ipc';
+            }
             container.setAttribute('data-theme', themeName.toLowerCase());
+        }
+
+        function fitTextToWidth(element) {
+            if (!element) return;
+            const text = element.innerText.trim();
+            if (!text) return; // 如果没有文本，则无需缩放
+
+            // 强制保留在一行
+            element.style.whiteSpace = 'nowrap';
+            element.style.display = 'inline-block';
+            element.style.overflow = 'hidden';
+            
+            // 获取父容器宽度（留出 2px 的微小安全边距）
+            const maxWidth = element.parentElement.clientWidth - 2;
+            if (maxWidth <= 0) return;
+            
+            // 计算当前字号（浏览器会将 4mm 自动转成 px 数值）
+            
+
+            // 如果溢出，循环缩小字号
+            while (element.scrollWidth > maxWidth && fontSize > minFontSize) {
+                fontSize -= 0.5;   // 每次减少 0.5 像素
+                element.style.fontSize = fontSize + 'px';
+            }
         }
 
         // ===== 页面加载 =====
@@ -600,7 +684,14 @@
 
             // 3. 填充信息
             const venueUpper = user.venue.toUpperCase();
-            document.getElementById('theme-text').textContent = venueUpper;
+            const themeTextEl = document.getElementById('theme-text');
+            
+            // ✨ 特殊处理：如果会场是 EFZMUN，利用 HTML 注入实现双色
+            if (venueUpper === 'EFZMUN') {
+                themeTextEl.innerHTML = '<span class="theme-part-efz">EFZ</span><span class="theme-part-mun">MUN</span>';
+            } else {
+                themeTextEl.textContent = venueUpper; // 其他会场保持原样
+            }
 
             const venueCN = user.venueCN || venueMap[user.venue] || user.venue;
             document.getElementById('info-venuecn').innerText = venueCN;
@@ -609,6 +700,11 @@
             document.getElementById('info-school').innerText = user.school || '';
             document.getElementById('info-conference1').innerText = "2026卓越学院模拟联合国大会" || '';
             document.getElementById('info-conference2').innerText = "8.11 ~ 8.13 " || '';
+
+            const seatEl = document.getElementById('info-seat');
+            seatEl.innerText = user.seat || '';
+            fitTextToWidth(seatEl); // 自动缩放席位文字强制显示在一行
+
             // 4. 动态修改页面标题：会场 + 姓名 + 席位 info-conference
             const titleParts = [];
             if (venueCN) titleParts.push(venueCN);
@@ -625,7 +721,6 @@
             if (!user.school || user.school.trim() === '') {
                 schoolEl.innerText = '______';
             }
-            const seatEl = document.getElementById('info-seat');
             if (!user.seat || user.seat.trim() === '') {
                 seatEl.innerText = '______';
             }

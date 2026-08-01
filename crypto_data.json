@@ -302,6 +302,63 @@
     "seat": "组委副主席"
   },
   {
+    "name": "胡修源",
+    "qq_hash": "4dade7515b934f104bcdc251fd5ebac5a6cd7a506be970aba63806a7aed06375",
+    "venue": "IPC",
+    "school": "复旦大学",
+    "seat": "组委顾问"
+  },
+  {
+    "name": "胡修源",
+    "qq_hash": "4dade7515b934f104bcdc251fd5ebac5a6cd7a506be970aba63806a7aed06375",
+    "venue": "SCO",
+    "school": "复旦大学",
+    "seat": "主席团顾问"
+  },
+  {
+    "name": "胡修源",
+    "qq_hash": "4dade7515b934f104bcdc251fd5ebac5a6cd7a506be970aba63806a7aed06375",
+    "venue": "NAC",
+    "school": "复旦大学",
+    "seat": "主席团顾问"
+  },
+  {
+    "name": "张轩豪",
+    "qq_hash": "176e9688af26d3a1e8ceef71b64ef6cdffa73b205e9e29321b001ef4ae883b43",
+    "venue": "EFZMUN",
+    "school": "北京大学",
+    "seat": "25届华师大二附中模联社社长"
+  },
+  {
+    "name": "周子熙",
+    "qq_hash": "a5b81865d096b9faf7af0a308d7a9afb1b23986041503f0df5fee7406d203dfc",
+    "venue": "EFZMUN",
+    "school": "Carnegie Mellon University",
+    "seat": "26届华师大二附中模联社社长",
+    "venueCN": "延边八爪鱼"
+  },
+  {
+    "name": "廖培文",
+    "qq_hash": "97efa797c4f7ecef843ed0238a621a8056f50d00e37f1c5e5775b9f660630e21",
+    "venue": "EFZMUN",
+    "school": "华东师范大学第二附属中学",
+    "seat": "27届华师大二附中模联社社长"
+  },
+  {
+    "name": "金昱凡",
+    "qq_hash": "5bea9ae6f191cf6ecf52d76acf5769531f31d59b0932bcddb60bc7175461486a",
+    "venue": "EFZMUN",
+    "school": "华东师范大学第二附属中学",
+    "seat": "28届华师大二附中模联社社长"
+  },
+  {
+    "name": "张00",
+    "qq_hash": "888df25ae35772424a560c7152a1de794440e0ea5cfee62828333a456a506e05",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": null
+  },
+  {
     "name": "张一",
     "qq_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "venue": "MPC",
