@@ -352,18 +352,116 @@
     "seat": "28届华师大二附中模联社社长"
   },
   {
+    "name": "王芯柔",
+    "qq_hash": "6422a903042b26b6b8b8145967c31f62dfe45a456a6e6a380b018d94e331bf8c",
+    "venue": "SCO",
+    "school": "石家庄外国语学校",
+    "seat": ""
+  },
+  {
+    "name": "王子益奕",
+    "qq_hash": "18edad990bc89e89c674776ca38eb75c74fd9e7660eb72df327e8012884ce75a",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": ""
+  },
+  {
+    "name": "李和泽",
+    "qq_hash": "8548d439a891507cd9ed7e31895b9096bf2153835d58ff151b76baaee4525114",
+    "venue": "SCO",
+    "school": "上海市浦东复旦附中分校",
+    "seat": ""
+  },
+  {
+    "name": "胡亦非",
+    "qq_hash": "7e03615b04cb8e5e51fd81bfab4e133a99b1f1b66143e74f68bedbcdc53d1069",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学宝山校区",
+    "seat": ""
+  },
+  {
+    "name": "赵雯萱",
+    "qq_hash": "6564af4e8a2c12a4f9ae6bd8ed3eef00fcb972b72456a4342399b2e00509cb63",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": ""
+  },
+  {
+    "name": "陈新超",
+    "qq_hash": "31bd509c3dbb1634215721123e7f3a55552fc15dd54abd634db502f3186c3942",
+    "venue": "UNSC",
+    "school": "安徽省颍上第一中学",
+    "seat": ""
+  },
+  {
+    "name": "叶沁妍",
+    "qq_hash": "e59313c1f0d4fb50097bf9fcbe24c4f6f0f9c263a1b6dc65d203f550f40ad134",
+    "venue": "NAC",
+    "school": "上海市嘉定区第一中学",
+    "seat": ""
+  },
+  {
+    "name": "高紫曦",
+    "qq_hash": "673beae0d74204b4f3b23e2c7644792cc02ca933b9cfbb78ac5c05bd41c96748",
+    "venue": "SCO",
+    "school": "复旦大学附属中学",
+    "seat": ""
+  },
+  {
+    "name": "钟予曦",
+    "qq_hash": "c0424ba4d573b3ef110479c3188f6c1ac0aa45eea7bfaf725df162705fd4e915",
+    "venue": "UNSC",
+    "school": "上海市进才中学根林分校",
+    "seat": ""
+  },
+  {
+    "name": "周子文",
+    "qq_hash": "c8ca63225b2be16903c14b30c9169cdb71719e04a9c90364494e7fc696f60d7f",
+    "venue": "USCC",
+    "school": "复旦大学附属中学徐汇分校",
+    "seat": ""
+  },
+  {
+    "name": "李伽懿",
+    "qq_hash": "e97c75b94f677e6d8cb8e97eaa994ad97b46b91b6124446db76deb14a80d8ecb",
+    "venue": "USCC",
+    "school": "上海市中国中学",
+    "seat": ""
+  },
+  {
+    "name": "李欣梦",
+    "qq_hash": "548afe7844a08de7997ed50dfd6c07d64b15d6aafcc9721463fb51fca1c722ed",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学宝山校区",
+    "seat": ""
+  },
+  {
+    "name": "袁楚伊",
+    "qq_hash": "5b2275e81975b2926d7edbf203767a1d9752f16e124dbd8f4ddc83d1d4140c4e",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": ""
+  },
+  {
+    "name": "高语琪",
+    "qq_hash": "e59313c1f0d4fb50097bf9fcbe24c4f6f0f9c263a1b6dc65d203f550f40ad134",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学宝山校区",
+    "seat": ""
+  },
+  {
     "name": "刘璟峥",
     "qq_hash": "6ad494ceea9f483b80808cf6c262524b38f0b55de74c75f1e6d73acfec79d0fb",
     "venue": "UNSC",
     "school": "华东师范大学第二附属中学临港奉贤分校",
-    "seat": ""
+    "seat": "大不列颠及北爱尔兰联合王国"
   },
   {
     "name": "陆照茁",
     "qq_hash": "fdb9c0b500d229311c617b4e005a83c6df2880f4d08e93629a447b30e7c3a1e2",
     "venue": "UNSC",
     "school": "华东师范大学第二附属中学临港奉贤分校",
-    "seat": ""
+    "seat": "大不列颠及北爱尔兰联合王国"
   },
   {
     "name": "邵佳卓",
@@ -377,7 +475,7 @@
     "qq_hash": "7a52c5eb3f014df368a33a15404500042bd8c3dfb1c810d44344655b31229aa5",
     "venue": "NAC",
     "school": "四川省绵阳中学",
-    "seat": ""
+    "seat": "大不列颠及北爱尔兰联合王国"
   },
   {
     "name": "张00",
