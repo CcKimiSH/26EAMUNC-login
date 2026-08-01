@@ -302,6 +302,28 @@
     "seat": "组委副主席"
   },
   {
+    "name": "张晨予",
+    "qq_hash": "9e0f006fad954bb673ed3a0d7cef250fac766ca08f682f8f3238391b83e834b7",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "DH"
+  },
+  {
+    "name": "夏王泽",
+    "qq_hash": "06b3f9f55fc8a27628d1f3cd43c74b01340b82b51c66975d3a622c55b3108f2e",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "主席团负责人"
+  },
+  {
+    "name": "夏王泽",
+    "qq_hash": "06b3f9f55fc8a27628d1f3cd43c74b01340b82b51c66975d3a622c55b3108f2e",
+    "venue": "IPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "组委副主席",
+    "venueCN": "联合国安全理事会"
+  },
+  {
     "name": "胡修源",
     "qq_hash": "4dade7515b934f104bcdc251fd5ebac5a6cd7a506be970aba63806a7aed06375",
     "venue": "IPC",
@@ -376,7 +398,7 @@
     "name": "胡亦非",
     "qq_hash": "7e03615b04cb8e5e51fd81bfab4e133a99b1f1b66143e74f68bedbcdc53d1069",
     "venue": "SCO",
-    "school": "华东师范大学第二附属中学宝山校区",
+    "school": "华东师范大学第二附属中学（宝山校区）",
     "seat": ""
   },
   {
@@ -457,6 +479,48 @@
     "seat": ""
   },
   {
+    "name": "邢佳豪",
+    "qq_hash": "6c762e973866dfe6bcbc37a7adae0572013df7e5f802c3bad9561d8c60e48c73",
+    "venue": "MPC",
+    "school": "华东师范大学第二附属中学临港奉贤分校",
+    "seat": ""
+  },
+  {
+    "name": "陆亦菲",
+    "qq_hash": "5418e51798dfcba2369a8bdc060390ef4759a5507bb3ef139ff0adb6d9dce663",
+    "venue": "MPC",
+    "school": "华东师范大学第二附属中学临港奉贤分校",
+    "seat": ""
+  },
+  {
+    "name": "张思淼",
+    "qq_hash": "b2271ffee700dd774e02b845c9509ca652bf20c7397e7261dc809cdeff2a75fc",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学临港奉贤分校",
+    "seat": "德意志联邦共和国"
+  },
+  {
+    "name": "褚逸晨",
+    "qq_hash": "928a5bed69883d25caf0ee3449f721e5f1e99347c777fbdb36b05443d0c0e99b",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学临港奉贤分校",
+    "seat": "德意志联邦共和国"
+  },
+  {
+    "name": "张彤菲",
+    "qq_hash": "7d839f1229af50f4c986ec5b838d3a7c0006ba7e9c053ee965c86af421d7d008",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学临港奉贤分校",
+    "seat": "德意志联邦共和国"
+  },
+  {
+    "name": "於诗缘",
+    "qq_hash": "15553c0a598a40e53051b0567ee98e6632337732a58e0a88b8d7b2b12363b9a9",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学临港奉贤分校",
+    "seat": "德意志联邦共和国"
+  },
+  {
     "name": "刘璟峥",
     "qq_hash": "6ad494ceea9f483b80808cf6c262524b38f0b55de74c75f1e6d73acfec79d0fb",
     "venue": "UNSC",
@@ -475,7 +539,7 @@
     "qq_hash": "b9b3e391c990d742c65620ff2b34f9aaa61e15f5bb61a069d3d7fc82a086ef2d",
     "venue": "NAC",
     "school": "华东师范大学第二附属中学临港奉贤分校",
-    "seat": ""
+    "seat": "大不列颠及北爱尔兰联合王国"
   },
   {
     "name": "邓琪文",
