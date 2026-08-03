@@ -324,6 +324,13 @@
     "venueCN": "联合国安全理事会"
   },
   {
+    "name": "戴天泽",
+    "qq_hash": "e14514f2716d690c34d46cc7e6bfe33167dd7526a803fdf5b050f23c5b6ccbde",
+    "venue": "USCC",
+    "school": "The Governors Academy",
+    "seat": "DM"
+  },
+  {
     "name": "胡修源",
     "qq_hash": "4dade7515b934f104bcdc251fd5ebac5a6cd7a506be970aba63806a7aed06375",
     "venue": "IPC",
@@ -378,7 +385,7 @@
     "qq_hash": "6422a903042b26b6b8b8145967c31f62dfe45a456a6e6a380b018d94e331bf8c",
     "venue": "SCO",
     "school": "石家庄外国语学校",
-    "seat": ""
+    "seat": "吉尔吉斯共和国"
   },
   {
     "name": "王子益奕",
@@ -399,14 +406,14 @@
     "qq_hash": "7e03615b04cb8e5e51fd81bfab4e133a99b1f1b66143e74f68bedbcdc53d1069",
     "venue": "SCO",
     "school": "华东师范大学第二附属中学（宝山校区）",
-    "seat": ""
+    "seat": "巴西联邦共和国"
   },
   {
     "name": "赵雯萱",
     "qq_hash": "6564af4e8a2c12a4f9ae6bd8ed3eef00fcb972b72456a4342399b2e00509cb63",
     "venue": "SCO",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "巴西联邦共和国"
   },
   {
     "name": "陈新超",
@@ -420,21 +427,28 @@
     "qq_hash": "e59313c1f0d4fb50097bf9fcbe24c4f6f0f9c263a1b6dc65d203f550f40ad134",
     "venue": "NAC",
     "school": "上海市嘉定区第一中学",
-    "seat": ""
+    "seat": "加拿大"
   },
   {
     "name": "高紫曦",
     "qq_hash": "673beae0d74204b4f3b23e2c7644792cc02ca933b9cfbb78ac5c05bd41c96748",
     "venue": "SCO",
     "school": "复旦大学附属中学",
-    "seat": ""
+    "seat": "土耳其共和国"
   },
   {
     "name": "钟予曦",
     "qq_hash": "c0424ba4d573b3ef110479c3188f6c1ac0aa45eea7bfaf725df162705fd4e915",
     "venue": "UNSC",
     "school": "上海市进才中学根林分校",
-    "seat": ""
+    "seat": "大韩民国"
+  },
+  {
+    "name": "谢芸熙",
+    "qq_hash": "e4a7c20efde5f78f5be5f572819300609893d515e28290991605bb443d1a4f2f",
+    "venue": "UNSC",
+    "school": "上海市进才中学根林分校",
+    "seat": "大韩民国"
   },
   {
     "name": "周子文",
@@ -455,14 +469,14 @@
     "qq_hash": "548afe7844a08de7997ed50dfd6c07d64b15d6aafcc9721463fb51fca1c722ed",
     "venue": "NAC",
     "school": "华东师范大学第二附属中学宝山校区",
-    "seat": ""
+    "seat": "荷兰王国"
   },
   {
     "name": "张清渊",
     "qq_hash": "b8eae655127a049d05d220b8780cd81786d9f7ee1bf3570caefa57f8636e01b6",
     "venue": "NAC",
     "school": "上海师范大学附属罗店中学",
-    "seat": ""
+    "seat": "荷兰王国"
   },
   {
     "name": "袁楚伊",
@@ -476,7 +490,7 @@
     "qq_hash": "e59313c1f0d4fb50097bf9fcbe24c4f6f0f9c263a1b6dc65d203f550f40ad134",
     "venue": "UNSC",
     "school": "华东师范大学第二附属中学宝山校区",
-    "seat": ""
+    "seat": "巴基斯坦伊斯兰共和国"
   },
   {
     "name": "邢佳豪",
@@ -547,6 +561,111 @@
     "venue": "NAC",
     "school": "四川省绵阳中学",
     "seat": "大不列颠及北爱尔兰联合王国"
+  },
+  {
+    "name": "邹妤涵",
+    "qq_hash": "c5966fe59ef971f43c2f39bae872cd788824ca4c1c5f8979c44b88d08215fb55",
+    "venue": "SCO",
+    "school": "上海市吴淞中学",
+    "seat": "伊朗伊斯兰共和国"
+  },
+  {
+    "name": "朱雨菡",
+    "qq_hash": "4565198ec4ece19234a8e62cbff8cf4cf8e7357045a67d057455007213cca952",
+    "venue": "SCO",
+    "school": "上海市吴淞中学",
+    "seat": "伊朗伊斯兰共和国"
+  },
+  {
+    "name": "王以深",
+    "qq_hash": "ff93cc04144312cffcb13e1b5b03e9ddf425591ee872b8b1a03795b1062d7fa2",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": "巴基斯坦伊斯兰共和国"
+  },
+  {
+    "name": "陶苗佳",
+    "qq_hash": "f18487e558f9928a36317fcdce2a24c00f9f959ce6c90966059c75d6985a5389",
+    "venue": "SCO",
+    "school": "上海市建平中学",
+    "seat": "巴基斯坦伊斯兰共和国"
+  },
+  {
+    "name": "孙浩鹏",
+    "qq_hash": "893debbd2e00fd924008857172c0a441703025727ae60d9066c65d54e19f1578",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学宝山校区",
+    "seat": "罗马尼亚"
+  },
+  {
+    "name": "黄譞",
+    "qq_hash": "bf4e385695c530407287011db063f230df92cfe5414cef281e1b1db1e1690bbe",
+    "venue": "NAC",
+    "school": "杨浦高级中学",
+    "seat": "法兰西共和国"
+  },
+  {
+    "name": "顾天宇",
+    "qq_hash": "dafe9362ec14565d42b5c26a37fb253c323e7d71d7a51999af75af31f48dfcbc",
+    "venue": "NAC",
+    "school": "上海市杨浦高级中学",
+    "seat": "法兰西共和国"
+  },
+  {
+    "name": "小川拳矢",
+    "qq_hash": "0e9527157e2a558abebee3b52e7be4fe97e4d2726f6667822c8d30c3f90c8035",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学国际部",
+    "seat": "日本国"
+  },
+  {
+    "name": "陈梓轩",
+    "qq_hash": "553c9185aac16e70361e97b759034bc4208dfafbe03313455b9643e743be7fe3",
+    "venue": "MPC",
+    "school": "上海民办圣华紫竹双语学校",
+    "seat": ""
+  },
+  {
+    "name": "詹丽颖",
+    "qq_hash": "b5a29842c2a0ddb8c864ea41a3d6fd0ad3e81bc858359a40b70b08d2c31167ad",
+    "venue": "UNSC",
+    "school": "上海市光明中学",
+    "seat": "南非共和国"
+  },
+  {
+    "name": "彭子昂",
+    "qq_hash": "300d01c9fcae677661105aa67d22c91ae3b6a602070bc9d5dbcb64b263cf03e7",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学临港奉贤分校",
+    "seat": "沙特阿拉伯王国"
+  },
+  {
+    "name": "李鸿宁",
+    "qq_hash": "6a9db7aeec8f14a06dbc1affd984403baaf2e1e49b334bee696fc924bc59af87",
+    "venue": "MPC",
+    "school": "上海民办圣华紫竹双语学校",
+    "seat": ""
+  },
+  {
+    "name": "陈乐菲",
+    "qq_hash": "56fc527605b2157d0060207e8ac2440efcaa1a2eafce357b02c1a53772837345",
+    "venue": "UNSC",
+    "school": "上海市嘉一实验高级中学",
+    "seat": "法兰西共和国"
+  },
+  {
+    "name": "陈熙悦",
+    "qq_hash": "e0715c19482f03a81fd7d5795561281850f9c1f5308d955cf16ff36fced39c02",
+    "venue": "UNSC",
+    "school": "上海师范大学附属中学",
+    "seat": "俄罗斯联邦"
+  },
+  {
+    "name": "杨冰茹",
+    "qq_hash": "835db7e47f370560533f4aa00b9a1f606656660d43ee5d37ff3d4d808bc91db3",
+    "venue": "UNSC",
+    "school": "上海戏剧学院附属高级中学",
+    "seat": "俄罗斯联邦"
   },
   {
     "name": "张00",
