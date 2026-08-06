@@ -52,6 +52,12 @@
             --color-d: #162C46;
             --color-c: color-mix(in srgb, #FFFFFF 55%, var(--color-a));
         }
+        [data-theme="guest"] {
+            --color-a: #162C46;
+            --color-b: #EFE5D2;
+            --color-d: #FFFFFF;
+            --color-c: color-mix(in srgb, #FFFFFF 55%, var(--color-a));
+        }
 
         * {
             margin: 0;
@@ -631,7 +637,8 @@
             'MPC': '主新闻中心',
             'UNSC': '联合国安全理事会',
             'IPC': '推演与情报中心',
-            'EFZMUN': '华师大二附中模联社'
+            'EFZMUN': '华师大二附中模联社',
+            'GUEST': 'Welcome'
         };
 
         // ===== 设置主题配色 =====

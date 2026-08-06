@@ -277,7 +277,7 @@
     "qq_hash": "8ba1dc3dc3562b023c6befca4dc8840a21c8821abd6426f240705ce381ec73c6",
     "venue": "SCO",
     "school": "华东师范大学第二附属中学",
-    "seat": "主席团成员"
+    "seat": "主席团成员 实业家委员会主席"
   },
   {
     "name": "叶祎芃",
@@ -350,6 +350,13 @@
     "venue": "NAC",
     "school": "复旦大学",
     "seat": "主席团顾问"
+  },
+  {
+    "name": "刘一萱",
+    "qq_hash": "f3136bdf43351587cebc5f5837173f2c2a2cba12587167d3c7815550f9bd84cb",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "Academic Consultant"
   },
   {
     "name": "张轩豪",
@@ -833,21 +840,21 @@
     "qq_hash": "c76013472f99f0114d11ffbd899a6d9b701a8c8e6b00bb694e7aa958c6b3c258",
     "venue": "SCO",
     "school": "上海交通大学",
-    "seat": "阿拉伯埃及共和国"
+    "seat": "蒙古国"
   },
   {
     "name": "张栗悠",
     "qq_hash": "a49d8fdea3062ae1e80d1c62b7ed4e2c9953fe59576df840e4e2466f6c0f33f4",
-    "venue": "UNSC",
+    "venue": "SCO",
     "school": "上海市建平中学",
-    "seat": "科特迪瓦共和国"
+    "seat": "阿塞拜疆共和国"
   },
   {
     "name": "王韦森",
     "qq_hash": "fd3b67e39d83cd7b90b7968ed7837125ab810650511f8d303461c2fb1f04a5fc",
     "venue": "SCO",
     "school": "上海市建平中学",
-    "seat": "阿塞拜疆共和国"
+    "seat": "亚美尼亚共和国"
   },
   {
     "name": "谭天",
@@ -1005,10 +1012,122 @@
   },
   {
     "name": "柳宇鸿",
-    "qq_hash": "80c6c8d3b926fa1cfd8c53a44deb03f45f2c4a646e508e15be005026d3a99c83",
+    "qq_hash": "b56258c2a7a2eea956120a821ffdb67af866418f5a491b9f7666cf69acc7c6b9",
     "venue": "SCO",
     "school": "华东师范大学第二附属中学临港奉贤分校",
     "seat": "卡塔尔国"
+  },
+  {
+    "name": "叶佳馨",
+    "qq_hash": "ef6b4a88fd4403df8d733f1fa04cfd9de25743e62e82a30b46d52d3e7d4b432c",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": ""
+  },
+  {
+    "name": "臧牧辰",
+    "qq_hash": "9464f4aa2b71b556975c80e8bb412a06f1406576ddc0baa7663929f538aed350",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "科特迪瓦共和国"
+  },
+  {
+    "name": "倪墨轩",
+    "qq_hash": "deff3dae411e7e8cf57ceeacbb2854768c7d048fdef142cd3698968a57463e75",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": ""
+  },
+  {
+    "name": "艾彤瑶",
+    "qq_hash": "3d6970eb3eb4abe17ebc814c02660ad79d85aa9e0756decaec1c227cbd472b2f",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": "阿拉伯埃及共和国"
+  },
+  {
+    "name": "何云阶",
+    "qq_hash": "b6630913b00532d1463739cc4a619bd2cbd3b63cf43f557fdc3508981218406a",
+    "venue": "SCO",
+    "school": "上海市经济管理学校",
+    "seat": "阿拉伯埃及共和国"
+  },
+  {
+    "name": "郁挺",
+    "qq_hash": "d15126de5ebe1c2e2324ab4c53bd9b58a10166db0dd901b1ab7b39da687e4b09",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "巴西联邦共和国"
+  },
+  {
+    "name": "周丹宁",
+    "qq_hash": "8ce1e7ed92034f52a7c69f0d8407b811c41257e9d7f151f804d84c67c37bc9b4",
+    "venue": "MPC",
+    "school": "华东师范大学第二附属中学",
+    "seat": ""
+  },
+  {
+    "name": "唐文越",
+    "qq_hash": "9d9aa10fc797f1c5e9fe57dff9c7c78984bfe74e8b2fde400f2fa0f41b692d2c",
+    "venue": "NAC",
+    "school": "上海市上海中学",
+    "seat": "尼德兰王国"
+  },
+  {
+    "name": "杜灿锦",
+    "qq_hash": "246e3cf330dd3fa9bed1bd352202aca702b1eb9d9a4ef9700ceb328bf3aa6d12",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "尼德兰王国"
+  },
+  {
+    "name": "田雨昕",
+    "qq_hash": "e3f19cb015bfe0bd92ee67725e9aaac5a1ca6bf526cc7f9e493670c30504f891",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": ""
+  },
+  {
+    "name": "田乐之",
+    "qq_hash": "b9b2420a63bc61f0c8903c9722ae32c032eea1f401114b17bb0c1e68d39a9c90",
+    "venue": "SCO",
+    "school": "上海市甘泉外国语中学",
+    "seat": "印度共和国"
+  },
+  {
+    "name": "范佳翎",
+    "qq_hash": "1c8d974c6fd9092a027c9d4403dacaf5b0943603bcc745c118b309b4db3972c2",
+    "venue": "GUEST",
+    "school": "EFZ Studio",
+    "seat": "会议支持人员"
+  },
+  {
+    "name": "郑舞阳",
+    "qq_hash": "30db4047eacd523776fdd48d21955d4570572ab81d1f6f521cda8279f12e8ad2",
+    "venue": "GUEST",
+    "school": "EFZ Studio",
+    "seat": "会议支持人员"
+  },
+  {
+    "name": "董柳含",
+    "qq_hash": "adfa46d4fe91dcf409c974041f335598c53b4a217519d35cd460d6929293444d",
+    "venue": "GUEST",
+    "school": "EFZ Studio",
+    "seat": "会议支持人员"
+  },
+  {
+    "name": "陈沁悦",
+    "qq_hash": "a8e0a2486bf572f722be3edd3bf0764ee392ba49000a9be540d4e1c0e99728d6",
+    "venue": "GUEST",
+    "school": "复旦大学附属中学青浦分校",
+    "seat": "访客"
+  },
+  {
+    "name": "刘睿涵",
+    "qq_hash": "40e99761c6bae9d7cebc6d70423c941143c40ef0feeca5dc2ac8ad966c870823",
+    "venue": "GUEST",
+    "school": "EFZ Studio",
+    "seat": "会议支持人员"
   },
   {
     "name": "张00",
