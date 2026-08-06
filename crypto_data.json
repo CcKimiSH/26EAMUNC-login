@@ -32,14 +32,14 @@
     "qq_hash": "f367175bc805c1c35ee2344da00a957aec51bf4fac7619080a7b96e943122360",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": "DM"
+    "seat": "Dais Member"
   },
   {
     "name": "傅泊嘉",
     "qq_hash": "f367175bc805c1c35ee2344da00a957aec51bf4fac7619080a7b96e943122360",
     "venue": "IPC",
     "school": "华东师范大学第二附属中学",
-    "seat": "DM",
+    "seat": "Dais Member",
     "venueCN": "Continental Congress"
   },
   {
@@ -115,7 +115,7 @@
     "qq_hash": "7a91582ee1b48868a904e33e62af762543bd0fb9ec4d2adb5f4103dff51af012",
     "venue": "USCC",
     "school": "温州肯恩大学",
-    "seat": "DH"
+    "seat": "Dais Head"
   },
   {
     "name": "乔沅芷",
@@ -292,7 +292,7 @@
     "qq_hash": "9e0f006fad954bb673ed3a0d7cef250fac766ca08f682f8f3238391b83e834b7",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": "DH"
+    "seat": "Dais Head"
   },
   {
     "name": "王绮雯",
@@ -306,7 +306,7 @@
     "qq_hash": "9e0f006fad954bb673ed3a0d7cef250fac766ca08f682f8f3238391b83e834b7",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": "DH"
+    "seat": "Dais Head"
   },
   {
     "name": "夏王泽",
@@ -328,7 +328,7 @@
     "qq_hash": "e14514f2716d690c34d46cc7e6bfe33167dd7526a803fdf5b050f23c5b6ccbde",
     "venue": "USCC",
     "school": "The Governors Academy",
-    "seat": "DM"
+    "seat": "Dais Member"
   },
   {
     "name": "胡修源",
@@ -462,14 +462,14 @@
     "qq_hash": "c8ca63225b2be16903c14b30c9169cdb71719e04a9c90364494e7fc696f60d7f",
     "venue": "USCC",
     "school": "复旦大学附属中学徐汇分校",
-    "seat": ""
+    "seat": "Pennsylvania"
   },
   {
     "name": "李伽懿",
     "qq_hash": "e97c75b94f677e6d8cb8e97eaa994ad97b46b91b6124446db76deb14a80d8ecb",
     "venue": "USCC",
     "school": "上海市中国中学",
-    "seat": ""
+    "seat": "South Carolina"
   },
   {
     "name": "李欣梦",
@@ -490,7 +490,7 @@
     "qq_hash": "5b2275e81975b2926d7edbf203767a1d9752f16e124dbd8f4ddc83d1d4140c4e",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "New York"
   },
   {
     "name": "高语琪",
@@ -721,7 +721,7 @@
     "qq_hash": "4ee8edf3f4bd560b94515176cb3123e6cd52b8dce4a0f74455e03dbcecf1737d",
     "venue": "USCC",
     "school": "上海市嘉定区第二中学",
-    "seat": ""
+    "seat": "Pennsylvania"
   },
   {
     "name": "徐熙怡",
@@ -777,7 +777,7 @@
     "qq_hash": "6a8e41bc064f1b63e9c2ea852dcc04d0db011357a409c16c53b32f01f48b2722",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "New Jersey"
   },
   {
     "name": "孙翊棋",
@@ -833,7 +833,7 @@
     "qq_hash": "da13499b15362e3ea1e018fc0c1a2360c66e414c5e9ecde67614c482d936074b",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "Delaware"
   },
   {
     "name": "胡羽凌",
@@ -861,14 +861,14 @@
     "qq_hash": "b7697a64073d0677db0045208d8849c4b8447aabd460c83a259af7082ae06d46",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "New Hampshire"
   },
   {
     "name": "徐子丹",
     "qq_hash": "9d509e39968ebdffa46b5bc201b53171366855bbfd78a047f7f5cafde88efb3c",
     "venue": "USCC",
     "school": "上海市格致中学",
-    "seat": ""
+    "seat": "South Carolina"
   },
   {
     "name": "刘宸灏",
@@ -896,7 +896,7 @@
     "qq_hash": "73079f378e62e53b8586b32412bc99bd772bc1838bcc8e4fa24bb5eea6c56013",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "Massachusetts"
   },
   {
     "name": "吴怡菲",
@@ -910,14 +910,14 @@
     "qq_hash": "47298cf6c0c0c4594a4d506786304361f5061cc58d5334406d62eaf29d2be142",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学（普陀校区）",
-    "seat": ""
+    "seat": "New York"
   },
   {
     "name": "姜子川",
     "qq_hash": "cc4e1981ba222609bd154681f9996a69cce975aaab6e91b9c55e01b3f8f78ce6",
     "venue": "USCC",
     "school": "大连市第一中学",
-    "seat": ""
+    "seat": "Connecticut"
   },
   {
     "name": "黄思涵",
@@ -952,14 +952,14 @@
     "qq_hash": "455585c7765167db11b978b35c540078e4216f7a88b95948cdad21e6e7f0c0f7",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "North Carolina"
   },
   {
     "name": "张希辰",
     "qq_hash": "f7e8fb51b58a7296bb2278068fd564f19f94a3e2b1c76ca6e6612521e5571652",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学（普陀校区）",
-    "seat": ""
+    "seat": "Rhode Island"
   },
   {
     "name": "董子谦",
@@ -971,9 +971,9 @@
   {
     "name": "黄浩",
     "qq_hash": "146c67de57d7decf4ccdfc151a0d06efa137a0f72ee57dda9bd810987995dca6",
-    "venue": "USCC",
+    "venue": "SCO",
     "school": "华东师范大学第二附属中学（普陀校区）",
-    "seat": ""
+    "seat": "塔吉克斯坦共和国"
   },
   {
     "name": "闫家瑞",
@@ -1001,14 +1001,14 @@
     "qq_hash": "992122fb87a18ebf0b69e85c48916e5fdb19f15f0cdd54f4194d9cd0bd96fcf0",
     "venue": "USCC",
     "school": "上海市曹杨第二中学",
-    "seat": ""
+    "seat": "Virginia"
   },
   {
     "name": "潘欣彤",
     "qq_hash": "869090db9722a3bf53de8e3d806317aad36d19f9f656f6b5e7f9bdf51e76d628",
     "venue": "USCC",
     "school": "上海市第八中学",
-    "seat": ""
+    "seat": "Massachusetts"
   },
   {
     "name": "柳宇鸿",
@@ -1022,7 +1022,7 @@
     "qq_hash": "ef6b4a88fd4403df8d733f1fa04cfd9de25743e62e82a30b46d52d3e7d4b432c",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "Maryland"
   },
   {
     "name": "臧牧辰",
@@ -1036,7 +1036,7 @@
     "qq_hash": "deff3dae411e7e8cf57ceeacbb2854768c7d048fdef142cd3698968a57463e75",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "North Carolina"
   },
   {
     "name": "艾彤瑶",
@@ -1085,7 +1085,7 @@
     "qq_hash": "e3f19cb015bfe0bd92ee67725e9aaac5a1ca6bf526cc7f9e493670c30504f891",
     "venue": "USCC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "Maryland"
   },
   {
     "name": "田乐之",
@@ -1093,6 +1093,62 @@
     "venue": "SCO",
     "school": "上海市甘泉外国语中学",
     "seat": "印度共和国"
+  },
+  {
+    "name": "郝熠",
+    "qq_hash": "04ad98704a3757f664d4e5e55451cb33bb88408c26907a2d1e1373889a541dfd",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "巴基斯坦伊斯兰共和国"
+  },
+  {
+    "name": "彭子杰",
+    "qq_hash": "3ac001e8b59eab66379600478db1ff40dfda468b8c6d20f953f1efc7051b5c66",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": "印度共和国"
+  },
+  {
+    "name": "张乐之",
+    "qq_hash": "8ec96789e121cf131bef37e56384de3ff939f69d5fe993a87e59614b14777f1d",
+    "venue": "USCC",
+    "school": "上海青浦区世外高级中学",
+    "seat": "Virginia"
+  },
+  {
+    "name": "张岳然",
+    "qq_hash": "363525a66695af89b2788d56a0e9c202bba7ac35a6fd1ac1ec7c5a66d78113d0",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": "亚美尼亚共和国"
+  },
+  {
+    "name": "朱羿萌",
+    "qq_hash": "79bfcc58f677ff999806bd9b3527996cef845db34c91d7a5d6345843b097d652",
+    "venue": "SCO",
+    "school": "华东师范大学第二附属中学",
+    "seat": "阿塞拜疆共和国"
+  },
+  {
+    "name": "林子懿",
+    "qq_hash": "c5ac2b3e6226fc3ba9eec1c2fd1484c2e4f33bd3f248e0b5f7eebdea6ccb52e0",
+    "venue": "UNSC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "科特迪瓦共和国"
+  },
+  {
+    "name": "戴欣湉",
+    "qq_hash": "b8b0b5f422f54d612244fed649825d1a2ae7fd75ba16a2323f97a520993675c6",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "New Jersey"
+  },
+  {
+    "name": "王馨雨",
+    "qq_hash": "09ad5485f2d23766b28dcc3cb76795cc2e260fc46c613274c5b87e5fcaa4a51f",
+    "venue": "NAC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "挪威王国"
   },
   {
     "name": "范佳翎",
