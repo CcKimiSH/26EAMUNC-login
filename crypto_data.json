@@ -203,7 +203,7 @@
     "qq_hash": "b9557a9676404c8dae7e090b0942d307ae5640b41a4802854bed4503f0d18221",
     "venue": "NAC",
     "school": "华东师范大学第二附属中学",
-    "seat": "主席团成员"
+    "seat": "主席团成员 匈牙利"
   },
   {
     "name": "王玉珏",
@@ -511,14 +511,14 @@
     "qq_hash": "6c762e973866dfe6bcbc37a7adae0572013df7e5f802c3bad9561d8c60e48c73",
     "venue": "MPC",
     "school": "华东师范大学第二附属中学临港奉贤分校",
-    "seat": ""
+    "seat": "泛非通讯社"
   },
   {
     "name": "陆亦菲",
     "qq_hash": "5418e51798dfcba2369a8bdc060390ef4759a5507bb3ef139ff0adb6d9dce663",
     "venue": "MPC",
     "school": "华东师范大学第二附属中学临港奉贤分校",
-    "seat": ""
+    "seat": "有线电视新闻网"
   },
   {
     "name": "张思淼",
@@ -637,7 +637,7 @@
     "qq_hash": "553c9185aac16e70361e97b759034bc4208dfafbe03313455b9643e743be7fe3",
     "venue": "MPC",
     "school": "上海民办圣华紫竹双语学校",
-    "seat": ""
+    "seat": "今日俄罗斯电视台"
   },
   {
     "name": "詹丽颖",
@@ -658,7 +658,7 @@
     "qq_hash": "6a9db7aeec8f14a06dbc1affd984403baaf2e1e49b334bee696fc924bc59af87",
     "venue": "MPC",
     "school": "上海民办圣华紫竹双语学校",
-    "seat": ""
+    "seat": "泛非通讯社"
   },
   {
     "name": "陈乐菲",
@@ -721,7 +721,7 @@
     "qq_hash": "694986a41152cba065f3730bc4f66abe3b3b7a1d76a80ee42450ccab6737aef4",
     "venue": "MPC",
     "school": "上海市格致中学",
-    "seat": ""
+    "seat": "有线电视新闻网"
   },
   {
     "name": "孟玉佳",
@@ -735,7 +735,7 @@
     "qq_hash": "c55126affb59a6e5aac4114ede50932d7cfcb4ceaff6699733d33a4ce7ddb40e",
     "venue": "MPC",
     "school": "上海市进才中学",
-    "seat": ""
+    "seat": "今日俄罗斯电视台"
   },
   {
     "name": "李靖玟",
@@ -756,7 +756,7 @@
     "qq_hash": "50a4bf5f47b17eddb64017303be9c64c5e4a5fe4373a18948d9a52445cf3796f",
     "venue": "MPC",
     "school": "上海市进才中学",
-    "seat": ""
+    "seat": "半岛电视台"
   },
   {
     "name": "朱陈欣",
@@ -770,7 +770,7 @@
     "qq_hash": "6fc4961b61c2f43aa6a72cf73348c4d5f55e1771128b8aeeacc4dd546c4300dd",
     "venue": "MPC",
     "school": "上海师范大学附属中学",
-    "seat": ""
+    "seat": "法国新闻社"
   },
   {
     "name": "闫钰婷",
@@ -882,7 +882,7 @@
     "qq_hash": "32ea0ba824ab0a4fab997bb9abb6c0f4074adf63d11a4d1c89159469c995695a",
     "venue": "MPC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "法国新闻社"
   },
   {
     "name": "蒋雨昕",
@@ -969,6 +969,13 @@
     "seat": "Rhode Island"
   },
   {
+    "name": "陶子博",
+    "qq_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "venue": "USCC",
+    "school": "华东师范大学第二附属中学",
+    "seat": "Georgia"
+  },
+  {
     "name": "董子谦",
     "qq_hash": "87fe437a90663b26c0421c6c75994ade3f47ec136167eb4056a13645f796375c",
     "venue": "SCO",
@@ -1001,7 +1008,7 @@
     "qq_hash": "f44d17855fb46c38c04b33bec5526bf749a91934074bde56e46bd390b5e519c5",
     "venue": "MPC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "有线电视新闻网"
   },
   {
     "name": "林鑫禹",
@@ -1071,7 +1078,7 @@
     "qq_hash": "8ce1e7ed92034f52a7c69f0d8407b811c41257e9d7f151f804d84c67c37bc9b4",
     "venue": "MPC",
     "school": "华东师范大学第二附属中学",
-    "seat": ""
+    "seat": "法国新闻社"
   },
   {
     "name": "唐文越",
